@@ -3,9 +3,9 @@ import Card from './Card';
 
 
 const CardList = ({ robots }) => {
-    if (true){
+   /*  if (true){
         throw new Error("noooooo!!");
-    }
+    } */
     return (
         <React.StrictMode>
         <div>
